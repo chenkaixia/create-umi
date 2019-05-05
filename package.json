@@ -1,5 +1,5 @@
 {
-  "name": "create-umi",
+  "name": "@ckx/create-umi-a",
   "version": "0.12.2",
   "description": "Creates a UmiJS application using the command line.",
   "bin": {
